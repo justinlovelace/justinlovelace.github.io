@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+---
+layout: single
+title:
+author_profile: true
+comments: false
+permalink: /
+---
 
-You can use the [editor on GitHub](https://github.com/justinlovelace/justinlovelace.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello! I recently graduated from Texas A&M University with a BS in Computer Science and a Minor in Mathematics. During my undergraduate studies, I was fortunate to be supported as a [Craig and Galen Brown Foundation Scholar](http://www.brownfound.org/). While there, I conducted research in Clinical NLP with Dr. Bobak Mortazavi. Specifically, I worked on adverse outcome prediction and medical report generation. You can view my publications [here]({{ "/publications/" }}).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am excited to begin a Master's degree with the Language Technology Institute at Carnegie Mellon University this Fall. I am broadly interested in the applications of NLP to healthcare and social good and I'm excited to continue my research career at CMU. In the meantime, I am currently interning with Facebook Search for the summer.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+----
 
-- Bulleted
-- List
+<h3 align="center">News</h3>
+<table class='news-table'>
+    <col width="18%">
+    <col width="82%">
+    <tr>
+        <td valign="top"><strong>[June 2020]</strong></td>
+        <td> Paper accepted at <a href="https://www.mlforhc.org/">MLHC 2020</a> on extracting problem lists from clinical notes for the prediction of adverse outcomes. Check it out <a href="https://www.mlforhc.org/accepted-papers">here</a>!
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[May 2020]</strong></td>
+        <td> I will be interning with Facebook Search for the summer. I'm excited to get to work with NLP at scale in an industry environment!
+        </td>
+    </tr>
+   <tr>
+        <td valign="top"><strong>[May 2020]</strong></td>
+        <td> I graduated from Texas A&M University with a BS in Computer Science and a Minor in Mathematics. I'm excited to continue my education as a Master's student at Carnegie Mellon University next Fall!
+        </td>
+    </tr>
+       <tr>
+        <td valign="top"><strong>[April 2020]</strong></td>
+        <td> Paper on extracting problem lists from clinical notes accepted at <a href="https://www.chilconference.org/">CHIL 2020</a> as a workshop spotlight.
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[December 2019]</strong></td>
+        <td> Presented my paper at the <a href="https://ml4health.github.io/2019/">2019 NeurIPS Machine Learning for Health (ML4H) Workshop</a> on predicting ICU readmission and mortality from clinical notes.
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[May 2019]</strong></td>
+        <td> I will be interning with Facebook for the summer working with the Notification Ranking team.
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[May 2019]</strong></td>
+        <td> My undergraduate thesis on predicting ICU readmission using clinical notes was recognized as an Oustanding Undergraduate Honors Thesis by the computer science department.
+        </td>
+    </tr>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/justinlovelace/justinlovelace.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</table>
