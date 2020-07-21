@@ -21,7 +21,12 @@ I am excited to begin a Master's degree with the Language Technologies Institute
     <col width="82%">
     <tr>
         <td valign="top"><strong>[June 2020]</strong></td>
-        <td> Paper accepted at <a href="https://www.mlforhc.org/">MLHC 2020</a> on extracting problem lists from clinical notes for the prediction of adverse outcomes. Check it out <a href="https://www.mlforhc.org/accepted-papers">here</a>!
+        <td> Paper accepted at <a href="https://www.mlforhc.org/">MLHC 2020</a> on extracting problem lists from clinical notes for the prediction of adverse outcomes. You can check it out <a href="https://2020.emnlp.org/">here</a> when it's made available.
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[June 2020]</strong></td>
+        <td> Paper submitted to <a href="https://www.mlforhc.org/">EMNLP 2020</a> on generating clinically coherent medical reports from chest x-rays.
         </td>
     </tr>
     <tr>
