@@ -6,9 +6,10 @@ comments: false
 permalink: /
 ---
 
-Hello! I recently graduated from Texas A&M University with a B.S. in Computer Science and a Minor in Mathematics. During my undergraduate studies, I was fortunate to be supported as a [Craig and Galen Brown Foundation Scholar](http://www.brownfound.org/). While there, I conducted research in Clinical NLP with Dr. Bobak Mortazavi. Specifically, I worked on adverse outcome prediction and medical report generation. You can view my publications [here]({{ "/publications/" }}).
+Hello! I am currently pursuing a Master's degree in the Language Technologies Institute at Carnegie Mellon University. I am excited to be conducting research on NLP for healthcare under the advisement of Dr. Carolyn Rosè. You can view my publications [here]({{ "/publications/" }}).
 
-I am excited to begin a Master's degree with the Language Technologies Institute at Carnegie Mellon University this Fall. I am broadly interested in the applications of NLP to healthcare and social good and I'm excited to continue my research career at CMU. In the meantime, I am currently interning with Facebook Search for the summer.
+I previously graduated from Texas A&M University with a B.S. in Computer Science and a Minor in Mathematics. During my undergraduate studies, I was fortunate to be supported as a [Craig and Galen Brown Foundation Scholar](http://www.brownfound.org/). While there, I conducted research in Clinical NLP with Dr. Bobak Mortazavi. Specifically, I worked on mining structured information from clinical notes for adverse outcome prediction and on improving the clinical coherence of abstractive medical report generation. 
+
 
 
 
@@ -19,6 +20,11 @@ I am excited to begin a Master's degree with the Language Technologies Institute
 <table class='news-table'>
     <col width="18%">
     <col width="82%">
+    <tr>
+        <td valign="top"><strong>[August 2020]</strong></td>
+        <td> I was awarded a Research Fellowship from Carnegie Mellon University to support my graduate studies.
+        </td>
+    </tr>
     <tr>
         <td valign="top"><strong>[June 2020]</strong></td>
         <td> Paper accepted at <a href="https://www.mlforhc.org/">MLHC 2020</a> on extracting problem lists from clinical notes for the prediction of adverse outcomes. You can check it out <a href="https://arxiv.org/pdf/2008.01197.pdf">here</a>.
