@@ -11,10 +11,10 @@ permalink: /publications/
 **2020**
 
 1. Learning to Generate Clinically Coherent Chest X-Ray Reports <br> **Justin Lovelace**, Bobak Mortazavi <br>
-  *Conference on Empirical Methods in Natural Language Processing (EMNLP)*, 2020. (In Submission) 
+  *Findings of EMNLP*, 2020.
 
 2. Dynamically Extracting Outcome-Specific Problem Lists from Clinical Notes with Guided Multi-Headed Attention <br> **Justin Lovelace**, Nathan Hurley, Adrian Haimovich, Bobak Mortazavi <br> 
-  *Machine Learning for Healthcare Conference (MLHC)*, 2020. (To Appear)
+  *Machine Learning for Healthcare Conference (MLHC)*, 2020.
 
 3. Mining Dynamic Problem Lists from Clinical Notes for the Interpretable Prediction of Adverse Outcomes <br> 
   **Justin Lovelace**, Nathan Hurley, Adrian Haimovich, Bobak Mortazavi <br> 

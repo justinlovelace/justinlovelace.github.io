@@ -6,7 +6,7 @@ comments: false
 permalink: /
 ---
 
-Hello! I am currently pursuing a Master's degree in the Language Technologies Institute at Carnegie Mellon University. I am excited to be conducting research on NLP for healthcare under the advisement of Dr. Carolyn Rosè. You can view my publications [here]({{ "/publications/" }}).
+Hello! I am currently pursuing a Master's degree in the Language Technologies Institute at Carnegie Mellon University. I am excited to be conducting research on knowledge base construction with a focus on healthcare applications under the advisement of Dr. Carolyn Rosè. You can view my publications [here]({{ "/publications/" }}).
 
 I previously graduated from Texas A&M University with a B.S. in Computer Science and a Minor in Mathematics. During my undergraduate studies, I was fortunate to be supported as a [Craig and Galen Brown Foundation Scholar](http://www.brownfound.org/). While there, I conducted research in Clinical NLP with Dr. Bobak Mortazavi. Specifically, I worked on mining structured information from clinical notes for adverse outcome prediction and on improving the clinical coherence of abstractive medical report generation. 
 
@@ -21,6 +21,11 @@ I previously graduated from Texas A&M University with a B.S. in Computer Science
     <col width="18%">
     <col width="82%">
     <tr>
+        <td valign="top"><strong>[September 2020]</strong></td>
+        <td> Paper accepted at <a href="https://2020.emnlp.org/papers/findings">Findings of EMNLP 2020</a> on generating clinically coherent medical reports from chest x-rays. You can check it out <a href="https://www.aclweb.org/anthology/2020.findings-emnlp.110/">here</a>.
+        </td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[August 2020]</strong></td>
         <td> I was awarded a Research Fellowship from Carnegie Mellon University to support my graduate studies.
         </td>
@@ -28,11 +33,6 @@ I previously graduated from Texas A&M University with a B.S. in Computer Science
     <tr>
         <td valign="top"><strong>[June 2020]</strong></td>
         <td> Paper accepted at <a href="https://www.mlforhc.org/">MLHC 2020</a> on extracting problem lists from clinical notes for the prediction of adverse outcomes. You can check it out <a href="https://arxiv.org/pdf/2008.01197.pdf">here</a>.
-        </td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[June 2020]</strong></td>
-        <td> Paper submitted to <a href="https://www.mlforhc.org/">EMNLP 2020</a> on generating clinically coherent medical reports from chest x-rays.
         </td>
     </tr>
     <tr>
