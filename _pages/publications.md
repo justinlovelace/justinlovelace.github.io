@@ -4,26 +4,32 @@ title: Publications
 author_profile: true
 comments: false
 permalink: /publications/
+classes: wide
 ---
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=WxMObpYAAAAJ&hl=en)
 
+**2021**
+
+**Robust Knowledge Graph Completion with Stacked Convolutions and a Student Re-Ranking Network** <br> <ins>Justin Lovelace</ins>, Denis Newman-Griffis, Shikhar Vashishth, Jill Fain Lehman, and Carolyn Rosé <br> 
+*Annual Meeting of the Association for Computational Linguistics and the International Joint Conference on Natural Language Processing* (**ACL-IJCNLP 2021**). (To Appear)
+
 **2020**
 
-1. Learning to Generate Clinically Coherent Chest X-Ray Reports <br> **Justin Lovelace**, Bobak Mortazavi <br>
-  *Findings of EMNLP*, 2020.
+  **Learning to Generate Clinically Coherent Chest X-Ray Reports** <br> <ins>Justin Lovelace</ins>, Bobak Mortazavi <br>
+  *Findings of the Conference on Empirical Methods in Natural Language Processing* (**Findings of EMNLP 2020**).
 
-2. Dynamically Extracting Outcome-Specific Problem Lists from Clinical Notes with Guided Multi-Headed Attention <br> **Justin Lovelace**, Nathan Hurley, Adrian Haimovich, Bobak Mortazavi <br> 
-  *Machine Learning for Healthcare Conference (MLHC)*, 2020.
+  **Dynamically Extracting Outcome-Specific Problem Lists from Clinical Notes with Guided Multi-Headed Attention** <br> <ins>Justin Lovelace</ins>, Nathan Hurley, Adrian Haimovich, Bobak Mortazavi <br> 
+  *Machine Learning for Healthcare Conference* (**MLHC 2020**).
 
-3. Mining Dynamic Problem Lists from Clinical Notes for the Interpretable Prediction of Adverse Outcomes <br> 
-  **Justin Lovelace**, Nathan Hurley, Adrian Haimovich, Bobak Mortazavi <br> 
-  *ACM Conference on Health, Inference, and Learning (CHIL) Workshop*, 2020. (**Oral Spotlight**)
+  **Mining Dynamic Problem Lists from Clinical Notes for the Interpretable Prediction of Adverse Outcomes** <br> 
+  <ins>Justin Lovelace</ins>, Nathan Hurley, Adrian Haimovich, Bobak Mortazavi <br> 
+  *ACM Conference on Health, Inference, and Learning Workshop* (**ACM CHIL Workshop 2020**). (**Oral Spotlight**)
 
 **2019**
 
-1. Explainable Prediction of Adverse Outcomes Using Clinical Notes <br> **Justin Lovelace**, Nathan Hurley, Adrian Haimovich, Bobak Mortazavi <br>
-  *NeurIPS Machine Learning for Health (ML4H) Workshop*, 2019.
+  **Explainable Prediction of Adverse Outcomes Using Clinical Notes** <br> <ins>Justin Lovelace</ins>, Nathan Hurley, Adrian Haimovich, Bobak Mortazavi <br>
+  *NeurIPS Machine Learning for Health Workshop* (**NeurIPS ML4H 2019**) .
 
 
 **Undergraduate Honors Thesis**

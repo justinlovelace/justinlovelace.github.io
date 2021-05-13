@@ -21,6 +21,11 @@ I previously graduated from Texas A&M University with a B.S. in Computer Science
     <col width="18%">
     <col width="82%">
     <tr>
+        <td valign="top"><strong>[May 2021]</strong></td>
+        <td> Paper accepted at <a href="https://2021.aclweb.org/">ACL-IJCNLP 2021</a> on developing a knowledge graph completion pipeline that leverages textual information for improved robustness to sparsity. To appear soon.
+        </td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[September 2020]</strong></td>
         <td> Paper accepted at <a href="https://2020.emnlp.org/papers/findings">Findings of EMNLP 2020</a> on generating clinically coherent medical reports from chest x-rays. You can check it out <a href="https://www.aclweb.org/anthology/2020.findings-emnlp.110/">here</a>.
         </td>
