@@ -11,8 +11,11 @@ classes: wide
 
 **2021**
 
+**Team JARS: DialDoc Subtask 1 - Improved Knowledge Identification with Supervised Out-of-Domain Pretraining** <br> Sopan Khosla, <ins>Justin Lovelace</ins>, Ritam Dutt, Adithya Pratapa <br> 
+*ACL-IJCNLP Workshop on Document-grounded Dialogue and Conversational QA* (**ACL-IJCNLP DialDoc 2021**).
+
 **Robust Knowledge Graph Completion with Stacked Convolutions and a Student Re-Ranking Network** <br> <ins>Justin Lovelace</ins>, Denis Newman-Griffis, Shikhar Vashishth, Jill Fain Lehman, and Carolyn Rosé <br> 
-*Annual Meeting of the Association for Computational Linguistics and the International Joint Conference on Natural Language Processing* (**ACL-IJCNLP 2021**). (To Appear)
+*Annual Meeting of the Association for Computational Linguistics and the International Joint Conference on Natural Language Processing* (**ACL-IJCNLP 2021**).
 
 **2020**
 

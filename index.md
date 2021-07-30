@@ -21,8 +21,13 @@ I previously graduated from Texas A&M University with a B.S. in Computer Science
     <col width="18%">
     <col width="82%">
     <tr>
+        <td valign="top"><strong>[June 2021]</strong></td>
+        <td> I participated in the shared task organized by the <a href="https://doc2dial.github.io/workshop2021/">DialDoc Workshop</a> at <a href="https://2021.aclweb.org/">ACL-IJCNLP 2021</a> on identifying grounding information in a reference document to aid a conversational agent. You can check out our system description <a href="https://aclanthology.org/2021.dialdoc-1.13/">here</a>.
+        </td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[May 2021]</strong></td>
-        <td> Paper accepted at <a href="https://2021.aclweb.org/">ACL-IJCNLP 2021</a> on developing a knowledge graph completion pipeline that leverages textual information for improved robustness to sparsity. To appear soon.
+        <td> Paper accepted at <a href="https://2021.aclweb.org/">ACL-IJCNLP 2021</a> on developing a knowledge graph completion pipeline that leverages textual information for improved robustness to sparsity. You can check it out <a href="https://arxiv.org/pdf/2106.06555.pdf">here</a>.
         </td>
     </tr>
     <tr>
