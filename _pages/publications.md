@@ -7,7 +7,7 @@ permalink: /publications/
 classes: wide
 ---
 
-[Google Scholar Profile](https://scholar.google.com/citations?user=WxMObpYAAAAJ&hl=en)
+[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=k2CBs3gAAAAJ)
 
 **2021**
 
