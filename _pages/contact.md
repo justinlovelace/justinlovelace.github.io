@@ -5,7 +5,7 @@ author_profile: true
 comments: false
 permalink: /contact/
 ---
-Please reach out if you have any questions about my work.
+Please reach out if you are interested in collaborating or have any questions about my work.
 
 Email:  
-jlovelac [at] andrew [dot] cmu [dot] edu  
+jl3353 [at] cornell [dot] edu  

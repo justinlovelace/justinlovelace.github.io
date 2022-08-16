@@ -1,14 +1,19 @@
 ---
 layout: single
+classes: wide
 title:
 author_profile: true
 comments: false
 permalink: /
 ---
 
-Hello! I am currently pursuing a Master's degree in the Language Technologies Institute at Carnegie Mellon University. I am excited to be conducting research on knowledge base construction with a focus on healthcare applications under the advisement of Dr. Carolyn Rosè. You can view my publications [here]({{ "/publications/" }}).
+<h3 align="center">About</h3>
 
-I previously graduated from Texas A&M University with a B.S. in Computer Science and a Minor in Mathematics. During my undergraduate studies, I was fortunate to be supported as a [Craig and Galen Brown Foundation Scholar](http://www.brownfound.org/). While there, I conducted research in Clinical NLP with Dr. Bobak Mortazavi. Specifically, I worked on mining structured information from clinical notes for adverse outcome prediction and on improving the clinical coherence of abstractive medical report generation. 
+I am currently pursuing a Ph.D. in Computer Science at Cornell University. I am broadly interested in machine learning and deep learning with a focus on the challenges that arise from model deployment in the real world. This includes, for instance, improving model robustness under realistic distributions shifts. I am also interested in the science of deep learning, i.e., developing a more principled understanding of deep learning phenomena. You can view my publications [here]({{ "/publications/" }}).
+
+I previously graduated from Carnegie Mellon University with an M.S. in Language Technologies. While there, I utilized textual information to develop knowledge graph completion models with greater robustness to sparsity under the advisement of Dr. Carolyn Rosè. My studies were supported by Research Fellowships from the university.
+
+I completed my undergraduate studies at Texas A&M University and received a B.S. in Computer Science and a Minor in Mathematics. During my undergraduate studies, I was fortunate to be supported as a [Craig and Galen Brown Foundation Scholar](http://www.brownfound.org/). While there, I conducted research in Clinical NLP with Dr. Bobak Mortazavi. Specifically, I worked on mining structured information from clinical notes for adverse outcome prediction and on improving the clinical coherence of abstractive medical report generation. 
 
 
 
@@ -20,6 +25,21 @@ I previously graduated from Texas A&M University with a B.S. in Computer Science
 <table class='news-table'>
     <col width="18%">
     <col width="82%">
+    <tr>
+        <td valign="top"><strong>[August 2022]</strong></td>
+        <td> I began pursuing my Ph.D. in Computer Science at Cornell University! I was fortunate to receive a University Fellowship to support my studies.
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[August 2022]</strong></td>
+        <td> I graduated from Carnegie Mellon University with an M.S. in Language Technologies.
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[August 2021]</strong></td>
+        <td> I was awarded a Research Fellowship from Carnegie Mellon University to support my graduate studies.
+        </td>
+    </tr>
     <tr>
         <td valign="top"><strong>[June 2021]</strong></td>
         <td> I participated in the shared task organized by the <a href="https://doc2dial.github.io/workshop2021/">DialDoc Workshop</a> at <a href="https://2021.aclweb.org/">ACL-IJCNLP 2021</a> on identifying grounding information in a reference document to aid a conversational agent. You can check out our system description <a href="https://aclanthology.org/2021.dialdoc-1.13/">here</a>.
