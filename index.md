@@ -9,7 +9,7 @@ permalink: /
 
 <h3 align="center">About</h3>
 
-I am currently pursuing a Ph.D. in Computer Science at Cornell University. I am broadly interested in machine learning and deep learning with a focus on the challenges that arise from model deployment in the real world. This includes, for instance, improving model robustness under realistic distributions shifts. I am also interested in the science of deep learning, i.e., developing a more principled understanding of deep learning phenomena. You can view my publications [here]({{ "/publications/" }}).
+I am currently pursuing a Ph.D. in Computer Science at Cornell University. I am broadly interested in the intersection of machine learning, deep learning, and natural language processing. I am currently working on adapting diffusion to language generation. You can view my publications [here]({{ "/publications/" }}).
 
 I previously graduated from Carnegie Mellon University with an M.S. in Language Technologies. While there, I utilized textual information to develop knowledge graph completion models with greater robustness to sparsity under the advisement of Dr. Carolyn Rosè. My studies were supported by Research Fellowships from the university.
 
@@ -25,6 +25,16 @@ I completed my undergraduate studies at Texas A&M University and received a B.S.
 <table class='news-table'>
     <col width="18%">
     <col width="82%">
+    <tr>
+        <td valign="top"><strong>[December 2022]</strong></td>
+        <td> New preprint out titled "Latent Diffusion for Language Generation". We demonstrate that diffusion can augment the generative capabilities of a pre-trained language model. Check it out <a href="https://arxiv.org/abs/2212.09462">here</a>.
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[October 2022]</strong></td>
+        <td> Paper accepted at <a href="https://2022.emnlp.org/">EMNLP 2022</a> that explores how to best extract and utilize textual entity representations from language models for knowledge graph completion.
+        </td>
+    </tr>
     <tr>
         <td valign="top"><strong>[August 2022]</strong></td>
         <td> I began pursuing my Ph.D. in Computer Science at Cornell University! I was fortunate to receive a University Fellowship to support my studies.
@@ -67,7 +77,7 @@ I completed my undergraduate studies at Texas A&M University and received a B.S.
     </tr>
     <tr>
         <td valign="top"><strong>[May 2020]</strong></td>
-        <td> I will be interning with Facebook Search for the summer. I'm excited to get to work with NLP at scale in an industry environment!
+        <td> I will be interning with Facebook Search for the summer.
         </td>
     </tr>
    <tr>

@@ -9,6 +9,15 @@ classes: wide
 
 [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=k2CBs3gAAAAJ)
 
+**2022**
+
+**Latent Diffusion for Lanugage Generation** <br> <ins>Justin Lovelace</ins>, Varsha Kishore, Chao Wan, Eliot Shekhtman, Kilian Weinberger <br> 
+*Preprint*, 2022.
+
+**A Framework For Adapting Pre-Trained Language Models to Knowledge Graph Completion** <br> <ins>Justin Lovelace</ins> and Carolyn Rosé <br> 
+*2022 Conference on Empirical Methods in Natural Language Processing* (**EMNLP 2022**).
+
+
 **2021**
 
 **Team JARS: DialDoc Subtask 1 - Improved Knowledge Identification with Supervised Out-of-Domain Pretraining** <br> Sopan Khosla, <ins>Justin Lovelace</ins>, Ritam Dutt, Adithya Pratapa <br> 
