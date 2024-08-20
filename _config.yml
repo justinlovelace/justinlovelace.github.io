@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Justin Lovelace"
-  avatar           : "images/portfolio_img.png"
+  avatar           : "images/portfolio_img.jpg"
   bio              : "Ph.D. Student<br/> Computer Science<br/> Cornell University"
   location         :
   email            :
@@ -177,7 +177,7 @@ exclude:
 keep_files:
   - .git
   - .svn
-encoding: "utf-8"
+encoding: utf-8
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
