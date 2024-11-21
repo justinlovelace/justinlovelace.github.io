@@ -14,7 +14,7 @@ classes: wide
 **Sample-Efficient Diffusion for Text-To-Speech Synthesis** <br> <ins>Justin Lovelace</ins>, Soham Ray, Kwangyoun Kim, Kilian Q Weinberger, Felix Wu <br>
 *Interspeech*, 2024.
 
-**Diffusion Guided Language Modeling** <br> <ins>Justin Lovelace</ins>, Varsha Kishore, Kilian Q Weinberger <br>
+**Diffusion Guided Language Modeling** <br> <ins>Justin Lovelace</ins>, Varsha Kishore, Yiwei Chen, Kilian Q Weinberger <br>
 *Findings of the Annual Meeting of the Association for Computational Linguistics* (**Findings of ACL**), 2024.
 
 **2023**
