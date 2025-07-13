@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. candidate in Computer Science at Cornell University, where I am fortunate to be advised by [Prof. Kilian Q. Weinberger](https://www.cs.cornell.edu/~kilian/). My current research focuses on applying diffusion models to language and speech generation, aiming to advance the capabilities and controllability of generative models in these domains.
+I am fortunate to be advised by [Prof. Kilian Q. Weinberger](https://www.cs.cornell.edu/~kilian/). My current research focuses on applying diffusion models to language and speech generation, aiming to advance the capabilities and controllability of generative models in these domains.
 
 Previously, I earned my M.S. in Language Technologies from Carnegie Mellon University, where I conducted NLP research under the advisement of [Dr. Carolyn Rosé](https://www.cs.cmu.edu/~cprose/). I completed my undergraduate studies at Texas A&M University, where I engaged in Clinical NLP research with [Dr. Bobak Mortazavi](https://engineering.tamu.edu/cse/profiles/mortazavi-bobak.html).
