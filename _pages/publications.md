@@ -9,6 +9,8 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
+Please see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=k2CBs3gAAAAJ) page for a list that may be more current.
+
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
