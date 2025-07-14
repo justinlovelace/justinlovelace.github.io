@@ -229,18 +229,6 @@
       "summary": "Inventors: Justin Lovelace, Soham Ray, Felix Wu, Kilian Q. Weinberger, Kwangyoun Kim. Status: Patent Pending."
     }
   ],
-  "skills": [
-    {
-      "name": "Technical Skills",
-      "keywords": [
-        "Python",
-        "C++",
-        "SQL",
-        "Pytorch",
-        "Git"
-      ]
-    }
-  ],
   "awards": [
     {
       "title": "NSF National Artificial Intelligence Research Resource (NAIRR) Pilot Award",
