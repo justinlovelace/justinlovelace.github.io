@@ -34,7 +34,7 @@ ninja.data = [{
           title: 'SpeechOp Demo Page',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/speechop_demo/";
+              window.location.href = "/projects/speechop/";
             },},{
         id: 'social-email',
         title: 'email',
