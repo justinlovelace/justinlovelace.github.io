@@ -1,8 +1,9 @@
 ---
 layout: page
-title: SpeechOp Demo Page
+title: SpeechOp Demo
 importance: 1
 category: research
+theme: light
 related_publications: false
 ---
 
