@@ -30,8 +30,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "projects-speechop-demo-page",
-          title: 'SpeechOp Demo Page',
+        },{id: "projects-speechop-demo",
+          title: 'SpeechOp Demo',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/speechop/";
