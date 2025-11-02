@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate in Computer Science at <a href="https://www.cs.cornell.edu/">Cornell University</a>.
+subtitle: Ph.D. Candidate in Computer Science at <a href="https://www.cs.cornell.edu/">Cornell University</a>.<br><a href="https://research.google/programs-and-events/phd-fellowship/recipients/?filtertab=2025">Google PhD Fellow</a> in Machine Learning & ML Foundations.
 
 profile:
   align: right
