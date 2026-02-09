@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My current research focuses on developing diffusion models for language and speech generation, aiming to advance the capabilities and controllability of generative models in these domains. I am fortunate to be advised by [Prof. Kilian Q. Weinberger](https://www.cs.cornell.edu/~kilian/). 
+My research focuses on building generative AI systems that are efficient, controllable, and grounded by explicitly modeling semantic latent representations. Rather than treating internal representations as implicit and inaccessible, I develop diffusion models that operate directly in these latent spaces, enabling transparent planning, fine-grained steering, and reliable grounding in external constraints across language, speech, and image domains. I am fortunate to be advised by [Prof. Kilian Q. Weinberger](https://www.cs.cornell.edu/~kilian/).
 
 Previously, I earned my M.S. in Language Technologies from Carnegie Mellon University, where I conducted NLP research under the advisement of [Dr. Carolyn Rosé](https://www.cs.cmu.edu/~cprose/). I completed my undergraduate studies at Texas A&M University, where I engaged in Clinical NLP research with [Dr. Bobak Mortazavi](https://engineering.tamu.edu/cse/profiles/mortazavi-bobak.html).
