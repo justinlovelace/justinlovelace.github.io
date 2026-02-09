@@ -11,7 +11,8 @@ nav_order: 6
 ---
 
 ### **CS 4782: Introduction to Deep Learning** (Spring 2024)
-*Role: Course Developer & Co-Instructor*
+
+_Role: Course Developer & Co-Instructor_
 
 [**Course Website**](https://www.cs.cornell.edu/courses/cs4782/2024sp/)
 
